@@ -17,4 +17,4 @@ git pull
 git config --global user.email "Ваш емайл"
 git config --global user.name "Ваше имя"
 
-текст успешно отредактирован дома
+текст успешно отредактирован дома.
